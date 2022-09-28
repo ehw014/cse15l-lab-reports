@@ -4,6 +4,7 @@
 
 * Tonkotsu Ramen, w/ Egg
 * Miso Ramen
+* Tonkotsu Ramen
 * Miso Ramen, extra Chashu
 
 [Lab Report 1](lab-report-1-week-0.html)
